@@ -1,0 +1,8 @@
+PyYAML==3.11
+argh==0.26.2
+argparse==1.2.1
+pathtools==0.1.2
+redis==2.10.5
+watchdog==0.8.3
+wsgiref==0.1.2
+psycopg2==2.6.1
